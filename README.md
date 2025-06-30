@@ -1,4 +1,4 @@
-# Classificador de Emoções
+#  🤖 Classificador de Emoções
 
 Este projeto tem como objetivo desenvolver um modelo de Inteligência Artificial capaz de **classificar emoções humanas com base em frases curtas** usando técnicas de **Processamento de Linguagem Natural (PLN)** e **Redes Neurais Recorrentes (LSTM)**.
 
